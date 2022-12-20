@@ -1,5 +1,5 @@
 # Task-List
-Just practicing, using vanilla HTML, CSS and JavaScript, store data with Firebase Realtime Database
+Just some practicing during free time, using vanilla HTML, CSS and JavaScript, store data with Firebase Realtime Database
 
 
 Not completed yet, features to be developed: Edit, checked, set time...
